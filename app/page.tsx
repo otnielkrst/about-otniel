@@ -132,8 +132,8 @@ export default function Home() {
       
       <nav className="fixed top-0 w-full p-6 flex justify-between items-center z-50 mix-blend-difference bg-gradient-to-b from-black/50 to-transparent backdrop-blur-[2px]">
         <img 
-          src="/cretivox-white.png" 
-          alt="Cretivox Logo" 
+          src="/logo-alfagift.png" 
+          alt="Alfagift Logo" 
           className="h-8 md:h-10 w-auto object-contain cursor-pointer"
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
         />
